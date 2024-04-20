@@ -2,20 +2,26 @@
 
 <br/>
 <div align="center">
-  🛠️ SKILLS 🛠️ <br/><br/>
+🙂 About Me 🙂 <br/><br/>
+- 2006.07.22. Male <br/>
+- SemyeongComputer HighSchool <br/>  
+
+<br/><br/>
+
+🛠️ SKILLS 🛠️ <br/><br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/Unity-111111?style=for-the-badge&logo=Unity&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
   
----
-<br/>
+<br/><br/>
 
 🪪 LICENSE 🪪 <br/><br/>
 <img src="https://img.shields.io/badge/MicrosoftPowerPoint-B7472A?style=for-the-badge&logo=MicrosoftPowerPoint&logoColor=white">
 <img src="https://img.shields.io/badge/microsoftexcel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
 <img src="https://img.shields.io/badge/adobephotoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
 
+---
 </div>
 
 
@@ -24,33 +30,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddangjun)](https://github.com/anuraghazra/github-readme-stats) 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ddangjun)](https://solved.ac/ddangjun)  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<hr/>
+<br/>
 <details>
 <summary>
   📫 Contact Me!
