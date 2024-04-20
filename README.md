@@ -16,7 +16,7 @@
   
 <br/><br/>
 
-🪪 LICENSE 🪪 <br/><br/>
+🪪 LICENSES 🪪 <br/><br/>
 <img src="https://img.shields.io/badge/MicrosoftPowerPoint-B7472A?style=for-the-badge&logo=MicrosoftPowerPoint&logoColor=white">
 <img src="https://img.shields.io/badge/microsoftexcel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
 <img src="https://img.shields.io/badge/adobephotoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
