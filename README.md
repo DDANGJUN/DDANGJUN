@@ -1,4 +1,12 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Kim%20Sangjun&fontSize=90)
+
+
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddangjun)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ddangjun)](https://solved.ac/ddangjun)
 
 <!--
 **DDANGJUN/DDANGJUN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
