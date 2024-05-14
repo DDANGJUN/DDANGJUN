@@ -2,13 +2,13 @@
 
 <br/>
 <div align="center">
-🙂 About Me 🙂 <br/><br/>
+ About Me  <br/><br/>
 - 2006.07.22. Male <br/>
 - SemyeongComputer HighSchool <br/>  
 
 <br/><br/>
 
-🛠️ SKILLS 🛠️ <br/><br/>
+ SKILLS  <br/><br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/Unity-ffffff?style=for-the-badge&logo=Unity&logoColor=111111">
 <img src="https://img.shields.io/badge/csharp-white?style=for-the-badge&logo=csharp&logoColor=512BD4">
@@ -17,7 +17,7 @@
   
 <br/><br/>
 
-🪪 LICENSES 🪪 <br/><br/>
+ LICENSES  <br/><br/>
 <img src="https://img.shields.io/badge/MicrosoftPowerPoint-B7472A?style=for-the-badge&logo=MicrosoftPowerPoint&logoColor=white">
 <img src="https://img.shields.io/badge/microsoftexcel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
 <img src="https://img.shields.io/badge/adobephotoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
