@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Reddit+Mono&weight=500&size=40&pause=1000&center=true&vCenter=true&random=false&width=600&height=100&lines=Hello!+I'm+Kim+Sang-jun.)](https://git.io/typing-svg)
-
+<!--
 <br/>
 <div align="center">
 💬 About Me 💬 <br/><br/>
@@ -34,7 +34,7 @@
 <img src="https://img.shields.io/badge/MicrosoftPowerPoint-B7472A?style=for-the-badge&logo=MicrosoftPowerPoint&logoColor=white">
 <img src="https://img.shields.io/badge/microsoftexcel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
 <img src="https://img.shields.io/badge/adobephotoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
--->
+
 ---
 </div>
 
@@ -51,7 +51,7 @@
 </summary>
    roland0331@naver.com
 </details>
-<!--
+
 **DDANGJUN/DDANGJUN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
